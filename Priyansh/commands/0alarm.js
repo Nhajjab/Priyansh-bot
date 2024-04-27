@@ -1,10 +1,10 @@
 module.exports.config = {
-name: 'timer',
+name: 'autosent',
 version: '10.02',
 hasPermssion: 0,
 credits: 'King',
 description: 'Set Karne Ke Bad Automatically Msg Send Karega',
-commandCategory: 'autosent',
+commandCategory: 'group massenger',
 usages: '[]',
 cooldowns: 3
 };

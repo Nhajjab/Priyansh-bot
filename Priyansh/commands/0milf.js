@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "milf",
+  name: "hotwaifu",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "Yash",
   description: "Random 6-pack photos",
   commandCategory: "Random-IMG",
-  usages: "milf",
+  usages: "hotwaifu",
   cooldowns: 2,
   dependencies: {
     "request":"",
